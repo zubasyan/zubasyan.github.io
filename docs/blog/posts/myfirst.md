@@ -5,7 +5,6 @@ date:
 ---
 
 # hello world
-We hope you are all having fun and wish you all the best for the days!
-<!-- more -->
 
-楽しかった.2024年
+<!-- more -->
+fa
